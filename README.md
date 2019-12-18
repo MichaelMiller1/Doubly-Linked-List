@@ -50,7 +50,7 @@ and printlist, which prints a linked list to the screen.
   
     
       
-• The functionprintlistmust be declared exactly as follows: 
+• The function print list must be declared exactly as follows: 
   
   ◦  return value: void. 
   
